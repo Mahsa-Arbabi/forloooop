@@ -1,2 +1,2 @@
 # forloooop
- find umbers in an array with 9 sum by for
+ find numbers in an array with 9 sum by for
